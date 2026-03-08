@@ -38,7 +38,11 @@ pip install akshare pandas numpy matplotlib tqdm -i https://pypi.tuna.tsinghua.e
 # 启动程序
 python rsi_scanner.py
 ```
-
+## 打开方式
+**简单版本：**
+1.<img width="1056" height="411" alt="c1b47e677bd3b83ac300d50bc45697eb" src="https://github.com/user-attachments/assets/14d3b1b3-00b9-469f-b442-ec4ebc9bf2dc" />
+2.<img width="1878" height="630" alt="6bd7378498aed3926439b1501c2b646d" src="https://github.com/user-attachments/assets/a4fe5e39-5697-4f1b-8a15-84f65316d1c2" />
+3.<img width="639" height="186" alt="1f739827a80fc9ee3af15b66947609e1" src="https://github.com/user-attachments/assets/f42d47d9-938b-437c-8f6a-e6ab57448ccc" />
 ## 使用方法
 
 1. **启动程序**：运行 `python rsi_scanner.py`
